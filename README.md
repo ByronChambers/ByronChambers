@@ -1,4 +1,4 @@
-<b>My Networking Journey</b>
+<b><u>My Networking Journey</u></b>
 
 <p>This is my projects page to show the experience I gain through my learning journey.
 I could use AI to provide a perfect professional display of my work but I don't think that
