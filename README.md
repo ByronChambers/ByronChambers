@@ -6,11 +6,11 @@ learned through the process of each project.
 
 Each outline will follow a 5 Step outline policy.
 
-Project Title:
-Project Objective/Task/Goal:
-Project Tools/Equipment/Software:
-Project Detailed Steps:
-Project Lesson Learned:
+Project Title:<br>
+Project Objective/Task/Goal:<br>
+Project Tools/Equipment/Software:<br>
+Project Detailed Steps:<br>
+Project Lesson Learned:<br>
 
 
 
