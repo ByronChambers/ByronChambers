@@ -1,10 +1,10 @@
-This is my projects page to show the experience I gain through my learning journey.
+<p>This is my projects page to show the experience I gain through my learning journey.
 I could use AI to provide a perfect professional display of my work but I don't think that
 would be very authentic to what I am trying to display on this page. So I will have 
 my own simple outline for each of my projects that is more focused on my steps and what I 
-learned through the process of each project.
+learned through the process of each project.</p>
 
-Each outline will follow a 5 Step outline policy.
+Each outline will follow a 5 Step outline policy.<br>
 
 Project Title:<br>
 Project Objective/Task/Goal:<br>
