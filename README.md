@@ -15,7 +15,7 @@ Project Detailed Steps:<br>
 Project Lesson Learned:<br>
 <br>
 
-* These projects will be guided by Google Gemini chat to help me through my projects and to understand the core principles that I need to take away from the project. I am new to the IT/Network industry so these projects are not meant as a flex of my skill level but more of experience gained to enhance my knowledge and foundational skills I need to start a successful career.
+* These projects will be guided by Google Gemini chat to help me through my projects and to understand the core principles that I need to take away from the project. I am new to the IT/Network industry so these projects are not meant as a flex of my skill level but more of experience gained to enhance my knowledge and foundational skills I need to start a successful career. (I understand AI is not always 100% accurate)
 <hr>
 #1
 Project Title:Hardware Level Security Key<br>
