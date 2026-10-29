@@ -1,4 +1,4 @@
-<b><u>My Networking Journey</u></b>
+<b>My Networking Journey</b>
 
 <p>This is my projects page to show the experience I gain through my learning journey.
 I could use AI to provide a perfect professional display of my work but I don't think that
@@ -13,6 +13,9 @@ Project Objective/Task/Goal:<br>
 Project Tools/Equipment/Software:<br>
 Project Detailed Steps:<br>
 Project Lesson Learned:<br>
+<br>
+<hr>
+
 
 
 
