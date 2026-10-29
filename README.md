@@ -17,7 +17,7 @@ Project Lesson Learned:<br>
 
 * These projects will be guided by Google Gemini chat to help me through my projects and to understand the core principles that I need to take away from the project. I am new to the IT/Network industry so these projects are not meant as a flex of my skill level but more of experience gained to enhance my knowledge and foundational skills I need to start a successful career.
 <hr>
-
+#1
 Project Title:Hardware Level Security Key<br>
 Project Objective/Task/Goal: Setup USB-C Security Key for Windows 11 Local Login<br>
 Project Tools/Equipment/Software:Swissbit Ishield Key 2<br>
