@@ -1,4 +1,18 @@
-## Hi there 👋
+This is my projects page to show the experience I gain through my learning journey.
+I could use AI to provide a perfect professional display of my work but I don't think that
+would be very authentic to what I am trying to display on this page. So I will have 
+my own simple outline for each of my projects that is more focused on my steps and what I 
+learned through the process of each project.
+
+Each outline will follow a 5 Step outline policy.
+
+Project Title:
+Project Objective/Task/Goal:
+Project Tools/Equipment/Software:
+Project Detailed Steps:
+Project Lesson Learned:
+
+
 
 <!--
 **ByronChambers/ByronChambers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
