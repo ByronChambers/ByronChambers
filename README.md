@@ -18,7 +18,7 @@ Project Lesson Learned:<br>
 * These projects will be guided by Google Gemini chat to help me through my projects and to understand the core principles that I need to take away from the project. I am new to the IT/Network industry so these projects are not meant as a flex of my skill level but more of experience gained to enhance my knowledge and foundational skills I need to start a successful career.
 <hr>
 
-Project Title: Hardware Level Security Key<br>
+<u>Project Title:</u> Hardware Level Security Key<br>
 Project Objective/Task/Goal: Setup USB-C Security Key for Windows 11 Local Login<br>
 Project Tools/Equipment/Software:Swissbit Ishield Key 2<br>
 Project Detailed Steps: I downloaded OpenSC 64bit and OpenSSL lite. Installed them both. I ran the command prompt in administrator and Gemini provided command lines for me to generate a certificate. I ran CertMgr and exported my certificate to the desktop as a saved file. I imported that saved certificate file to my slot 9A on my Swissbit device. Finally I ran command lines provided by Gemini to backup and then map my certificate to windows.I then restarted my computer to attempt to login with the Swissbit. ( Failed ) So I decided to apply my windows login password to the Swissbit and use the touch function to enter my password at the login screen.<br>
