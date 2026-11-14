@@ -26,6 +26,7 @@ Project Detailed Steps: I downloaded OpenSC 64bit and OpenSSL lite. Installed th
 <br>
 Project Lesson Learned: This was a great opportunity to learn the steps it takes to create and map a certificate key for network login like through active directory. The standard local windows login does not have the functionality to seek out a key certificate registered to a hardware device and use it as authentication. <br>
 <br>
+<hr>
 #2
 Project Title: PFsense Router Presetup for Starlink<br>
 Project Objective/Task/Goal:Setup my Lenovo M920q mini with an installed Nic 2 port card as a PFsense Router for Starlink<br>
